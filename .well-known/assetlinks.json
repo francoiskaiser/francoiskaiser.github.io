@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.francoiskaiser.pronohub",
+        "sha256_cert_fingerprints": ["90:A6:83:D9:71:03:00:73:B7:E4:93:6E:38:A9:DC:CE:56:DA:89:9E:5E:AE:D0:12:05:AB:48:AF:33:1F:03:FA"]
+      }
+    }]
